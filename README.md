@@ -1,2 +1,1 @@
-# NLP
-NLP model for Sentient Analysis
+This a simple Twitter Sentient Analysis that is done by using LSTM (Long short-term memory) Model
